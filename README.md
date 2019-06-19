@@ -1,2 +1,2 @@
 # pipeline
-Ejemplo de Jenkinsfile y pipeline en Jenkins 
+Ejemplo para probar pipelines en Jenkins 
